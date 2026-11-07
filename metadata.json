@@ -1,0 +1,6 @@
+{
+  "name": "ZamonWeb - Veb-Saytlar va Raqamli Yechimlar",
+  "description": "Biznes va startaplar uchun zamonaviy, tezkor va sotuvchi veb-saytlar yaratish platformasi, interaktiv narx kalkulyatori va portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
